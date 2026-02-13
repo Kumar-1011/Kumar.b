@@ -107,6 +107,20 @@ body {
     margin-top: 10px;
 }
 
+
+.card-image {
+    width: 70%;
+    max-width: 70px;
+    margin-top: 15px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
 /* Envelope styling */
 .envelope {
     width: 300px;
@@ -250,7 +264,7 @@ body {
     transform: translate(-50%, -50%);
     width: 36px;
     height: 32px; 
-    background-image: url("heart-seal.png");
+    background-image: url("https://img.freepik.com/premium-vector/doodle-hand-drawn-heart-drawing-white-background_921039-31947.jpg?semt=ais_hybrid&w=740&q=80");
     background-size: cover; 
     background-repeat: no-repeat;
     z-index: 2;
